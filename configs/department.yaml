@@ -1,0 +1,12 @@
+p_col_id: "zg-right-col"
+current_department_class: ["zg_selected"]
+p_tiles_class: ["zg-item-immersion"]
+p_page_rank_class: ["zg-badge-text"]
+p_title_class: ["p13n-sc-truncate", "p13n-sc-line-clamp-2"]
+p_link_class: ["a-link-normal"]
+p_rank_class: ["zg-sales-movement"]
+p_rank_percent_class: ["zg-percent-change"]
+p_rating_class: ["a-icon-alt"]
+p_total_ratings_css_selector: "a.a-size-small.a-link-normal"
+p_price_class: ["a-size-base", "a-color-price"]
+next_page_link_class: ["a-last"]

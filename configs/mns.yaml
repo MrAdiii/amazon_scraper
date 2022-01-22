@@ -1,0 +1,5 @@
+mns_url: "https://www.amazon.in/gp/movers-and-shakers"
+base_url: "https://www.amazon.in"
+
+# The Department urls selectors are different when scraped through bs4
+mns_department_ul_id: "zg_browseRoot"
